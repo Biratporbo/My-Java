@@ -131,6 +131,12 @@ This repo is designed as a learning playground. Contributions are welcome if you
 
 ---
 
+> “The best way to learn Java is to build, break, and rebuild — one small program at a time.”
+>
+> — Java Learning Studio
+
+---
+
 ## 🧭 Connect
 
 Built for rapid Java learning with an eye toward modern developer workflows.
