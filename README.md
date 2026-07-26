@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,git,github,idea" alt="Tech Stack" width="420" />
+  <img src="https://skillicons.dev/icons?i=java,git,github,idea" alt="Tech Stack" width="380" />
 
   <br>
 
